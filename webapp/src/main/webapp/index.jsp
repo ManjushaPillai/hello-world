@@ -8,15 +8,15 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label  for="Email"<b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email address" name"Email" id="Email">
+    <label for="Email"<b>Enter Email</b></label>
+    <input type="text" placeholder="Enter Email address" name"Email" id="Email">>
     <br>
-    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Repeat the Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
