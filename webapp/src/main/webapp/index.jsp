@@ -9,7 +9,7 @@
     <br>
     
     <label for="Email"<b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email address" name"Email" id="Email">>
+    <input type="text" placeholder="Enter Email address" name"Email" id="Email">
     <br>
 
     <label for="psw"><b>Password</b></label>
